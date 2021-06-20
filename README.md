@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuanjiahong
 - 👀 I’m interested in ... Web development and database management
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, PHP SQL
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, PHP ,SQL
 - 💞️ I’m looking to collaborate on ... N/A
 - 📫 How to reach me ... N/A
 
