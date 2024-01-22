@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuanjiahong
-- 👀 I’m interested in Game development, story writing, cloud computing
-- 🌱 I’m currently learning Game development
-- 💞️ I’m looking to collaborate on game development
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me via my linkedin https://www.linkedin.com/in/kuan-jia-hong-008024/
 
 <!---
